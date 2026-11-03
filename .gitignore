@@ -1,0 +1,5 @@
+node_modules/
+.env
+.agent-session.json
+.agent-workspace/
+*.log
